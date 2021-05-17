@@ -10,7 +10,7 @@
 > also added whitespace to make code easier to read
 > changed title element.
 
-- [links](https://javid17.github.io/week-1-challenge/)
+- [GitHub Page](https://javid17.github.io/week-1-challenge/)
 
 ![ALT](../assets/images/screenshot1 "Screenshots")
 
